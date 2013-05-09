@@ -10,7 +10,7 @@ namespace Tablequote.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to tablequote";
+            ViewBag.Message = "Welcome";
 
             return View();
         }
